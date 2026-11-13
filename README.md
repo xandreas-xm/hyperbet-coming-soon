@@ -20,11 +20,13 @@ IPs. Once the certificate is issued, the zone may switch the records to proxied 
 
 ## Why it looks like this
 
-- **GitHub Pages, not the platform host.** The page has to exist before the platform does, and it is the only host we
-  can deploy to ourselves; when the platform goes live, the zone's records move to GeniusBet's host and this repo can
-  be archived.
-- **No link to playhyperbet.com** (operator, 2026-11-13): the page stands on its own for the new platform; the only
-  way out is the Telegram community.
+- **It wears the new platform's look, not playhyperbet.com's** (operator, 2026-11-13): the page announces the GeniusBet
+  build that will live on this domain, so it takes that site's font (Kanit), navy, lime, buttons, its game tiles and its
+  logo (from app-hyperbet.genius360.io). No mascot anywhere (operator), so its promo banners are out too. A first version in the old deck style read as generic.
+- **No link to playhyperbet.com** (operator): the page stands on its own; the ways out are Telegram and X.
+- **GitHub Pages, not the platform host.** The page has to exist before the platform does; when the platform goes live
+  the zone's records move to GeniusBet's host and this repo can be archived.
+- **The licence line is the platform's own footer text**, copied from app-hyperbet.genius360.io.
 
 ## Changing it
 
