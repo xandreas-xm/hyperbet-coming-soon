@@ -23,7 +23,8 @@ IPs. Once the certificate is issued, the zone may switch the records to proxied 
 - **GitHub Pages, not the platform host.** The page has to exist before the platform does, and it is the only host we
   can deploy to ourselves; when the platform goes live, the zone's records move to GeniusBet's host and this repo can
   be archived.
-- **Links out to playhyperbet.com.** The live casino keeps running until the switch, so the page sends players there.
+- **No link to playhyperbet.com** (operator, 2026-11-13): the page stands on its own for the new platform; the only
+  way out is the Telegram community.
 
 ## Changing it
 
